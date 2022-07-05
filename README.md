@@ -27,7 +27,7 @@ This Hotspot FW package includes:
 
 * The ADC signal to be read is input onto EX_ADC Pin 13 on the STMOD connector. Note the analog voltage on the board is 2.7V, so this is the maximum voltage that the ADC will be able to read. In the image below, black wire goes to GND, blue wire goes to EX_ADC.
 
-![UG_IMAGE_1](Images/STMOD_ADC.png) ![UG_IMAGE_2](Images/STMOD_PIC.jpg)
+![UG_IMAGE_1](images/STMOD_ADC.png) ![UG_IMAGE_2](images/STMOD_PIC.jpg)
 
 <br><br>
 
@@ -51,7 +51,7 @@ This Hotspot FW package includes:
 <br><br>
 
 
-![UG_IMAGE_3](Images/sine_wave.png)
+![UG_IMAGE_3](images/sine_wave.png)
 
 <br><br>
 
